@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I like trains
+### I am currently working on SFBU
+# Dog is cool
+
 
 <!--
 **Agent1245321/Agent1245321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
